@@ -198,7 +198,7 @@ img {
 }
 
 /* Second Highlight Section */
-.second-hightlight-wrapper {
+.iphon15 {
   background-image: url("../images/home/iPhone 15 camera pro.png");
   height: 500px;
   background-position: center;
@@ -213,37 +213,31 @@ img {
   font-size: 56px;
   color: black;
 }
-.description-wrapper {
+/* .description-wrapper {
   font-size: 26px;
   padding: 10px 0;
   color: black;
   font-family: sans-serif;
-}
+} */
 
 /* Third Highlight Section */
-.third-highlight-wrapper {
+.apple-watch {
   background-image: url("../images/home/appe watch pro.png");
   height: 580px;
   background-position: center;
   background-repeat: no-repeat;
-  font-size: 24px;
   background-size: cover;
   text-align: center;
-  padding: 65px 20px;
 }
 
-.watch {
-  color: white;
-  font-family: sans-serif;
-}
 /*Fourth Highlight Section */
-.fourth-heghlight-wrapper {
+/* .fourth-heghlight-wrapper {
   display: flex;
   -webkit-box-pack: justify;
   justify-content: space-between;
   background: #fff;
-}
-.left-side-wrapper {
+} */
+/* .left-side-wrapper {
   height: 580px;
   background-position: center;
   background-repeat: no-repeat;
@@ -252,15 +246,20 @@ img {
   width: 48.5%;
   margin: 1% 0.5% 0% 1%;
   padding-top: 54px;
+} */
+.ipadPro {
+  background-image: url("../images/home/sm-ipad pro.png");
+  height: 580px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
 }
-.fourth-heghlight-wrapper .left-side-wrapper {
-  background-image: url("../images/home/ipad pro.png");
-}
-.ipad-title,
+/* .ipad-title,
 .ipad {
   color: white;
-}
-.right-side-wrapper {
+} */
+/* .right-side-wrapper {
   height: 580px;
   background-position: center;
   background-repeat: no-repeat;
@@ -272,10 +271,15 @@ img {
 }
 .inside-wrapper {
   padding-top: 40%;
-}
-.fourth-heghlight-wrapper .right-side-wrapper {
+} */
+.visionPro {
   background-image: url("../images/home/Vision Pro.png");
-}
+  height: 580px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+ }
 .description-wraper {
   max-width: 430px;
   margin: 0 auto;
