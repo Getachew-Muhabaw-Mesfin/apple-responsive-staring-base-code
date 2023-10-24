@@ -152,8 +152,8 @@ img {
 
 
 /* Main Highlight */
-.main-highlight-wrapper {
-  background-image: url("../images/home/iphone 15 pro.png");
+.ipnone15pro {
+  background-image: url("../images/home/sm-iphone15 pro.png");
   height: 600px;
   background-position: center;
   background-repeat: no-repeat;
@@ -162,10 +162,10 @@ img {
   padding: 60px 30px;
   color: #fff;
 }
-.links-wrapper ul {
+/* .links-wrapper ul {
   list-style: none;
   padding: 0 34px;
-}
+} 
 
 .product-title {
   font-weight: 800;
@@ -186,7 +186,7 @@ img {
 .links-wrapper ul li a {
   color: #06c;
   text-decoration: none;
-}
+}*/
 .links-wrapper ul li a:hover {
   text-decoration: underline;
 }
