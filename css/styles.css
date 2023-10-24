@@ -280,36 +280,29 @@ img {
   background-size: cover;
   text-align: center;
  }
-.description-wraper {
+ .mack-book{
+  background-image: url("../images/home/MacBook Air 15.png");
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+ 
+ }
+ .airPods{
+  background-image: url("../images/home/AirPod Pro.png");
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+ 
+ }
+/* .description-wraper {
   max-width: 430px;
   margin: 0 auto;
   padding: 10px;
-}
-.description-wraper p {
-  color: #86868b;
-  font-size: 18px;
-}
-/*Fivth Highlight Section */
-.fifth-heghlight-wrapper {
-  display: flex;
-  -webkit-box-pack: justify;
-  justify-content: space-between;
-  background: #fff;
-}
-.fifth-heghlight-wrapper .left-side-wrapper {
-  background-image: url("../images/home/MacBook Air 15.png");
-}
-.fifth-heghlight-wrapper .right-side-wrapper {
-  background-image: url("../images/home/AirPod Pro.png");
-  color: #fff;
-  background-color: #000;
-  background-position: bottom;
-}
-.logo-wrapper,
-.title-wrapper {
-  font-size: 40px;
-  font-weight: bold;
-}
+} */
 
 /*Sixth Highlight Section */
 .sixth-heghlight-wrapper {
