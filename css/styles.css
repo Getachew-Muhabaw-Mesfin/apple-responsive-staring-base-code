@@ -224,6 +224,12 @@ img {
   .background-image{
     height: 90vh;
   }
+  .footer-links-wrapper ul li a{
+    text-decoration: none;
+  }
+  .footer-links-wrapper ul li a:hover{
+    text-decoration: underline;
+  }
 }
 @media (min-width: 992px) {
   /*Footer styling*/
