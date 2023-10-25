@@ -221,6 +221,9 @@ img {
     background-position: center;
     background-size: cover;
   }
+  .background-image{
+    height: 90vh;
+  }
 }
 @media (min-width: 992px) {
   /*Footer styling*/
