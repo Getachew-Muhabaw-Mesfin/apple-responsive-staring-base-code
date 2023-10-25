@@ -43,7 +43,6 @@ img {
 
 /* My Code */
 
-
 /* Main Highlight */
 .ipnone15pro {
   background-image: url("../images/home/sm-iphone15 pro.png");
@@ -64,7 +63,7 @@ img {
   content: "\f105";
   padding-left: 10px;
 }
-.background-image{
+.background-image {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -95,25 +94,23 @@ img {
 .visionPro {
   background-image: url("../images/home/Vision Pro.png");
   height: 580px;
- }
- .mack-book{
+}
+.mack-book {
   background-image: url("../images/home/MacBook Air 15.png");
   height: 400px;
- }
- .airPods{
+}
+.airPods {
   background-image: url("../images/home/AirPod Pro.png");
   height: 400px;
-
- 
- }
- .trade-in{
+}
+.trade-in {
   background-image: url("../images/home/Trade in .png");
   height: 400px;
- }
- .iphon-card{
+}
+.iphon-card {
   background-image: url("../images/home/appl Card.png");
   height: 400px;
- }
+}
 
 /*Sixt
 /* Slider  */
@@ -123,7 +120,6 @@ img {
   border-radius: 5px;
   counter-increment: carousel-cell;
 }
-
 
 /* Footer Styling */
 .footer-wrapper {
@@ -217,6 +213,13 @@ img {
   /*Footer styling*/
   .my-apple-wrapper {
     border-bottom: 1px solid #d2d2d7;
+  }
+  .ipnone15pro {
+    background-image: url("../images/home/iphone 15 pro.png");
+    height: 580px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
   }
 }
 @media (min-width: 992px) {
